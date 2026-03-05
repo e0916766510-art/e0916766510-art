@@ -1,5 +1,10 @@
 ## Hi there 👋
-
+- 長榮大學學生
+- 興趣是種花
+- 最喜歡睡覺
+- 最喜歡媽媽
+- 耍廢最棒
+  
 <!--
 **e0916766510-art/e0916766510-art** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
